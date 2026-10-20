@@ -1,0 +1,6 @@
+{
+  "name": "Mjuku Safari",
+  "description": "Discover Tanzania, Live the Adventure. Your premier Arusha-based safari gateway to Serengeti, Ngorongoro, Kilimanjaro, and beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
